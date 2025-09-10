@@ -31,3 +31,4 @@ L'URL publique sera :
 
 ## Mise à jour quotidienne (GitHub Actions)
 Un workflow (voir `.github/workflows/feed.yml`) régénère et **commit** les fichiers tous les jours.
+
